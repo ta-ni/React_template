@@ -2,7 +2,6 @@ import React from 'react';
 import {setVisibilityFilter} from '../actions/index';
 import {connect} from 'react-redux';
 import PropTypes from 'prop-types';
-import image from '../images/product1.png'
 
 
 class Home extends React.Component {
